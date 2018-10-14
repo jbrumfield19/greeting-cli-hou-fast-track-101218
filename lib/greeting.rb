@@ -2,5 +2,5 @@
 def greet_me(name)
   puts "Hello #{name}. It's nice to meet you."
 end
-greet_me(name)
+
   
